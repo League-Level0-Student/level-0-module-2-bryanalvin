@@ -39,7 +39,7 @@ public class Magic8Ball {
 		// -- tell the user "Maybe you should ask Google?"
 		if (randomChoice == 2) {
 
-			JOptionPane.showMessageDialog(null, "Saki-San");
+			JOptionPane.showMessageDialog(null, "Hiroto-Kun");
 		}
 		// 8. If the random number is 3
 
@@ -49,7 +49,7 @@ public class Magic8Ball {
 		}
 
 		if (randomChoice == 4) {
-			JOptionPane.showMessageDialog(null,"Makame-Chan");
+			JOptionPane.showMessageDialog(null,"Kiyomi-Chan");
 		}
 		if (randomChoice == 5) {
 			JOptionPane.showMessageDialog(null,"Satomi-Chan");
