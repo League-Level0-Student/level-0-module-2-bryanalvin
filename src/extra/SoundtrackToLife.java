@@ -20,14 +20,14 @@ public class SoundtrackToLife {
 		// 3. If they are in a stressed mood, use the playVideo method to play a calming
 		// song from YouTube.
 		if (userMood == 0) {
-			playVideo("http://bit.ly/video-for-happy");
+			playVideo("https://www.youtube.com/watch?v=9wnNW4HyDtg");
 		}
 		if (userMood == 1) {
-			playVideo("http://bit.ly/video-for-sad");
+			playVideo("https://www.youtube.com/watch?v=gQAMyPtOwFM");
 
 		}
 		if (userMood == 2) {
-			playVideo(" http://bit.ly/video-for-angry");
+			playVideo("https://www.youtube.com/watch?v=NFjE5A4UAJI");
 
 		}                                             
 		// 4. Play different songs for other moods.
