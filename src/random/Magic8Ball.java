@@ -53,6 +53,31 @@ public class Magic8Ball {
 		}
 		if (randomChoice == 5) {
 			JOptionPane.showMessageDialog(null,"Satomi-Chan");
+			
+			if (randomChoice == 6) {
+		}
 		}
 	}
+
+
 }
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	

@@ -23,7 +23,7 @@ public class SoundtrackToLife {
 			playVideo("https://www.youtube.com/watch?v=9wnNW4HyDtg");
 		}
 		if (userMood == 1) {
-			playVideo("https://www.youtube.com/watch?v=gQAMyPtOwFM");
+			playVideo("https://www.youtube.com/watch?v=LHCob76kigA");
 
 		}
 		if (userMood == 2) {
